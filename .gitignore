@@ -1,3 +1,4 @@
 war/WEB-INF/classes/*
+!war/WEB-INF/classes/META-INF/
 war/WEB-INF/lib/*
 

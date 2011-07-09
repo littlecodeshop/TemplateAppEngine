@@ -1,3 +1,11 @@
+<!--
+
+    Simple build.xml
+
+    Note : pour pouvoir lancer update on doit d'abord lancer appcfg.sh a partir de la command line au moins 1 fois
+
+-->
+
 <project>
   <property name="sdk.dir" location="/Applications/eclipse/plugins/com.google.appengine.eclipse.sdkbundle.1.4.0_1.4.0.v201012021500/appengine-java-sdk-1.4.0" />
 
